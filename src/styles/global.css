@@ -1,0 +1,22 @@
+.container{
+    width:90%;
+    max-width:1200px;
+    margin:auto;
+}
+
+.section{
+    padding:80px 0;
+}
+
+.btn-primary{
+    background:#1E40AF;
+    color:white;
+    padding:14px 28px;
+    border-radius:10px;
+    font-weight:600;
+    transition:.3s;
+}
+
+.btn-primary:hover{
+    background:#1D4ED8;
+}
