@@ -21,3 +21,7 @@ https://friendly-arithmetic-aed708.netlify.app/
 ## GitHub Repository
 
 https://github.com/kumaresh2004/lawctopus-landing-page
+
+## Author
+
+Kumaresh R
